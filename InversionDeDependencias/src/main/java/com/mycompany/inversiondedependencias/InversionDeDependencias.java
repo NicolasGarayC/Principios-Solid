@@ -2,7 +2,7 @@ package com.mycompany.inversiondedependencias;
 
 import java.util.Date;
 
-public class Main {
+public class InversionDeDependencias {
     public static void main(String[] args) {
         // Creamos un objeto de la clase Factura
         Factura factura = new Factura(10);
